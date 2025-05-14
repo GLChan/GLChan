@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ![Swift](https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![CocoaPods](https://img.shields.io/badge/cocoapods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![WeChat](https://img.shields.io/badge/微信小程序-07C160?style=for-the-badge&logo=wechat&logoColor=white)
+![WeChat](https://img.shields.io/badge/MiniProgram-07C160?style=for-the-badge&logo=wechat&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Solidity](https://img.shields.io/badge/solidity-2B247C?style=for-the-badge&logo=solidity&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
