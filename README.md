@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=02569B&multiline=true&random=true&width=435&lines=Hello+World.I'm+Gary+Chan.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=02569B&multiline=true&random=true&width=435&lines=Hello.I'm+Gary+Chan.)](https://git.io/typing-svg)
 
 🔭 I am a developer with extensive experience in front-end and native iOS development. My tech stack primarily includes React, Next.js, Vue, Objective-C, and Swift. I am passionate about building projects, exploring new technologies, and enjoy collaborating with others in the tech community.
 
